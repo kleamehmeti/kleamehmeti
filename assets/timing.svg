@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-labelledby="t d">
+<title id="t">Timeline, 2022 to present</title>
+<desc id="d">Logic-analyzer style timeline. Digital School web development track Feb 2022 to May 2023. Intel AI for Youth Oct 2023 to Nov 2024. Robotech 2025 national hackathon Jan to Jun 2025. Socratica e-learning developer Jul to Oct 2025. B.Sc. Computer Engineering at UMT from Oct 2025. Lead Mentor at Robotech Club from Oct 2026. Award interrupts: #1 of 20 teams (client website, 2023), 1st place STEAM+ (May 2025), 3rd place Robotech (Jun 2025). Stack: HTML, CSS, JS, PHP and Java at Digital School; robotics in 2025; C++, Python and Linux at Robotech Club.</desc>
+<defs><style>
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.lab{font-size:11px;font-weight:600}
+.rl{font-size:12px;font-weight:600;fill:#CBD5E1}
+.yr{font-size:11px;fill:#94A3B8}
+.now{animation:p 2s ease-in-out infinite}
+@keyframes p{50%{opacity:.5}}
+.irq{animation:irq 3s ease-in-out infinite}
+@keyframes irq{0%,100%{opacity:1}50%{opacity:.6}}
+</style>
+<clipPath id="fr"><rect width="1200" height="440" rx="16"/></clipPath></defs>
+<g clip-path="url(#fr)">
+<rect width="1200" height="440" fill="#0C1A14"/>
+<text x="24" y="34" class="mono" font-size="12" font-weight="700" fill="#C9A24B" letter-spacing="1.5">TIMELINE</text>
+<text x="1176" y="34" class="mono" font-size="12" fill="#64748B" text-anchor="end">2022 → present</text>
+<line x1="200.0" y1="60" x2="200.0" y2="384" stroke="#1E3A2E" stroke-width="1"/>
+<text x="204.0" y="58" class="mono yr">2022</text>
+<line x1="370.0" y1="60" x2="370.0" y2="384" stroke="#1E3A2E" stroke-width="1"/>
+<text x="374.0" y="58" class="mono yr">2023</text>
+<line x1="540.0" y1="60" x2="540.0" y2="384" stroke="#1E3A2E" stroke-width="1"/>
+<text x="544.0" y="58" class="mono yr">2024</text>
+<line x1="710.0" y1="60" x2="710.0" y2="384" stroke="#1E3A2E" stroke-width="1"/>
+<text x="714.0" y="58" class="mono yr">2025</text>
+<line x1="880.0" y1="60" x2="880.0" y2="384" stroke="#1E3A2E" stroke-width="1"/>
+<text x="884.0" y="58" class="mono yr">2026</text>
+<line x1="1050.0" y1="60" x2="1050.0" y2="384" stroke="#1E3A2E" stroke-width="1"/>
+<text x="1054.0" y="58" class="mono yr">2027</text>
+<path d="M200 88 L200.0 88 L200.0 72 H242.5 L242.5 72 L242.5 88 H285.0 L285.0 88 L285.0 72 H327.5 L327.5 72 L327.5 88 H370.0 L370.0 88 L370.0 72 H412.5 L412.5 72 L412.5 88 H455.0 L455.0 88 L455.0 72 H497.5 L497.5 72 L497.5 88 H540.0 L540.0 88 L540.0 72 H582.5 L582.5 72 L582.5 88 H625.0 L625.0 88 L625.0 72 H667.5 L667.5 72 L667.5 88 H710.0 L710.0 88 L710.0 72 H752.5 L752.5 72 L752.5 88 H795.0 L795.0 88 L795.0 72 H837.5 L837.5 72 L837.5 88 H880.0 L880.0 88 L880.0 72 H922.5 L922.5 72 L922.5 88 H965.0 L965.0 88 L965.0 72 H1007.5 L1007.5 72 L1007.5 88 H1050.0 L1050.0 88 L1050.0 72 H1092.5 L1092.5 72 L1092.5 88 H1135.0 L1135.0 88 L1135.0 72 H1170.0" fill="none" stroke="#64748B" stroke-width="1.5"/>
+<text x="24" y="85" class="mono rl">CLK</text>
+<text x="24" y="132" class="mono rl">Digital School</text>
+<text x="24" y="166" class="mono rl">Intel AI</text>
+<text x="24" y="200" class="mono rl">Robotech '25</text>
+<text x="24" y="234" class="mono rl">Socratica</text>
+<text x="24" y="268" class="mono rl">UMT</text>
+<text x="24" y="302" class="mono rl">Robotech Club</text>
+<text x="24" y="336" class="mono rl">Awards</text>
+<text x="24" y="370" class="mono rl">Stack</text>
+<path d="M200 138 H214.2 L218.2 118 H433.8 L437.8 138 H1170" fill="none" stroke="#A78BFA" stroke-width="2"/>
+<rect x="218.2" y="118" width="215.6" height="20" fill="#A78BFA" fill-opacity=".10"/>
+<text x="226.2" y="132" class="mono lab" fill="#E2E8F0" text-anchor="start">web development</text>
+<path d="M200 172 H497.5 L501.5 152 H688.8 L692.8 172 H1170" fill="none" stroke="#5EEAD4" stroke-width="2"/>
+<rect x="501.5" y="152" width="187.2" height="20" fill="#5EEAD4" fill-opacity=".10"/>
+<text x="509.5" y="166" class="mono lab" fill="#E2E8F0" text-anchor="start">Intel AI for Youth</text>
+<path d="M200 206 H710.0 L714.0 186 H795.0 L799.0 206 H1170" fill="none" stroke="#C9A24B" stroke-width="2"/>
+<rect x="714.0" y="186" width="81.0" height="20" fill="#C9A24B" fill-opacity=".10"/>
+<text x="722.0" y="200" class="mono lab" fill="#E2E8F0" text-anchor="start">robotics build</text>
+<path d="M200 240 H795.0 L799.0 220 H837.5 L841.5 240 H1170" fill="none" stroke="#A78BFA" stroke-width="2"/>
+<rect x="799.0" y="220" width="38.5" height="20" fill="#A78BFA" fill-opacity=".10"/>
+<text x="849.5" y="234" class="mono lab" fill="#94A3B8" text-anchor="start">e-learning developer</text>
+<path d="M200 274 H837.5 L841.5 254 H1170" fill="none" stroke="#5EEAD4" stroke-width="2"/>
+<rect x="841.5" y="254" width="328.5" height="20" fill="#5EEAD4" fill-opacity=".10"/>
+<text x="849.5" y="268" class="mono lab" fill="#E2E8F0" text-anchor="start">Computer Engineering →</text>
+<path d="M200 308 H1007.5 L1011.5 288 H1170" fill="none" stroke="#C9A24B" stroke-width="2"/>
+<rect x="1011.5" y="288" width="158.5" height="20" fill="#C9A24B" fill-opacity=".10"/>
+<text x="1019.5" y="302" class="mono lab" fill="#E2E8F0" text-anchor="start">lead mentor →</text>
+<path class="irq" d="M200 342 H430.8 V322 H436.8 V342 H770.8 V322 H776.8 V342 H792.0 V322 H798.0 V342 H1170" fill="none" stroke="#FBBF24" stroke-width="2"/>
+<text x="443.8" y="336" class="mono lab" fill="#FBBF24">★ #1 of 20 teams</text>
+<text x="763.8" y="336" class="mono lab" fill="#FBBF24" text-anchor="end">★ 1st STEAM+</text>
+<text x="805.0" y="336" class="mono lab" fill="#FBBF24">★ 3rd Robotech</text>
+<line x1="200" y1="366.0" x2="1170" y2="366.0" stroke="#64748B" stroke-width="1.5" stroke-dasharray="2 3"/>
+<path d="M214.2 366.0 L220.2 356 H427.8 L433.8 366.0 L427.8 376 H220.2 Z" fill="#0F2A22" stroke="#E2E8F0" stroke-width="1.5"/>
+<text x="324.0" y="370" class="mono lab" fill="#E2E8F0" text-anchor="middle">HTML·CSS·JS·PHP·Java</text>
+<path d="M710.0 366.0 L716.0 356 H789.0 L795.0 366.0 L789.0 376 H716.0 Z" fill="#0F2A22" stroke="#E2E8F0" stroke-width="1.5"/>
+<text x="752.5" y="370" class="mono lab" fill="#E2E8F0" text-anchor="middle">robotics</text>
+<path d="M1007.5 366.0 L1013.5 356 H1164.0 L1170.0 366.0 L1164.0 376 H1013.5 Z" fill="#0F2A22" stroke="#E2E8F0" stroke-width="1.5"/>
+<text x="1088.8" y="370" class="mono lab" fill="#E2E8F0" text-anchor="middle">C++ · Python · Linux</text>
+<g class="now"><line x1="1028.8" y1="64" x2="1028.8" y2="384" stroke="#F87171" stroke-width="2" stroke-dasharray="5 4"/></g>
+<rect x="992.8" y="392" width="72" height="20" rx="4" fill="#F87171"/>
+<text x="1028.8" y="406" class="mono" font-size="11" font-weight="800" fill="#0C1A14" text-anchor="middle">NOW</text>
+<text x="24" y="406" class="mono" font-size="11.5" fill="#94A3B8">now · Lead Mentor, Robotech Club · Computer Engineering, UMT</text>
+</g></svg>
