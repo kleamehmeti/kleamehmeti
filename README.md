@@ -118,7 +118,7 @@ A charity website where visitors read about the organization, create an account 
 
 ## Contact
 
-Open to software and embedded developer roles, on-site in Tirana or remote. I work in Albanian, English and Turkish, with working German.
+Open to software and embedded developer roles, on-site in Tirana or remote. I work in Albanian, English and Turkish.
 
 <a href="mailto:klea.mehmeti@yahoo.com"><img src="https://img.shields.io/badge/Email-0C1A14?style=for-the-badge&logo=maildotru&logoColor=5EEAD4" alt="Email"></a>
 <a href="https://github.com/kleamehmeti"><img src="https://img.shields.io/badge/GitHub-0C1A14?style=for-the-badge&logo=github&logoColor=C9A24B" alt="GitHub"></a>
